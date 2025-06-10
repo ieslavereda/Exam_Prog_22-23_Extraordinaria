@@ -1,3 +1,3 @@
 # Exam_Prog_22-23_Extraordinaria
 
-<img src="./bingos.png" alt="bingo" style="zoom: 33%;" />![]()
+<img src="./bingo.png" alt="bingo" style="zoom: 33%;" />![]()
